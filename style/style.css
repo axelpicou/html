@@ -1,7 +1,11 @@
 body {
     background-color: orange;
 }
-
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
 
 
 
