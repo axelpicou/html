@@ -7,6 +7,10 @@ body {
     bottom: 0;
     width: 100%;
 }
+.card-body {
+    background: lightgrey;
+    border: 3px solid rgb(0, 0, 0);
+  }
 
 
 
