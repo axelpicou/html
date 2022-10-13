@@ -1,5 +1,6 @@
 body {
     background-color: orange;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #footer {
     position: fixed;
@@ -9,11 +10,7 @@ body {
 
 
 
-
-
-
-
-footer .main-footer{  padding: 20px 0;  background: #252525;}
+footer .main-footer{  padding: 0px 0;  background: #252525;}
 footer ul{  padding-left: 0;  list-style: none;}
 
 
@@ -27,7 +24,7 @@ footer ul{  padding-left: 0;  list-style: none;}
 .footer-copyright p { color: #969696; margin: 2px 0 0;}
 
 
-.footer-top{  background: #252525;  padding-bottom: 30px; margin-bottom: 30px;  border-bottom: 3px solid #222;}
+.footer-top{  background: #252525;  padding-bottom: 30px; margin-bottom: 30px;  border-bottom: 0px solid #222;}
 
 
 footer.transparent .footer-top, footer.transparent .main-footer{  background: transparent;}
